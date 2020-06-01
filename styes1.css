@@ -1,0 +1,65 @@
+*{
+	margin:0;
+	padding:0;
+	font-weight:normal;
+	font-size:16px;
+}
+
+
+body{
+	
+	padding:40px;
+	color:#353535;
+	font-family:georgia,times,serif;
+}
+h1,h2,h3,h4,h5,h6{
+	margin:10px 0;
+	font-family:helvetica,arial,sans-serif;
+	font-weight:normal;
+}
+/* normal=100,200,300,400*/
+h1{
+	font-size:3em;
+}
+h2{
+	font-size:2em;
+}
+h3{
+	font-size:1.5em;
+	letter-spaceing:-1px;
+	word-spaceing:10px;
+	text-align:centre;
+}
+blockquote{
+	margin:0 0 3px;
+	font-style:italic;
+	text-indent:80px;
+	line-height:1.3;
+}
+span{
+	text-decoration:line-through;
+}
+em{
+	text-transform:uppercase;
+}
+strong{
+	text-transform:capitalize;
+	font-weight:bold;
+}
+a{
+	color:#3ca;
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

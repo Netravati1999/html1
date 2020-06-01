@@ -1,0 +1,55 @@
+/* background images*/
+
+
+.background-box{
+	height:200px;
+	width:300px;
+    border: solid 4px black;
+}
+
+
+#background-1
+{
+	background-image:url('images/blue_background.jpg');
+     background-color:#a3d;
+	 
+}
+#background-2
+{
+	background-image:url('images/red_background.jpg');
+     background-repeat:repeat;
+	 
+}
+
+#background-3
+{
+     
+	 
+	background-image:url('images/steak_background.jpg');
+	background-repeat:no-repeat;
+	background-position:centre centre ;
+	
+
+}
+
+#background-4
+{
+
+     background-image:url('images/skull_background.jpg');
+	 background-repeat:no-repeat;
+	background-position:centre-left;
+	margin:0;
+ 
+	 
+}
+
+
+
+
+
+
+
+
+
+
+

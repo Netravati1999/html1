@@ -1,0 +1,84 @@
+/* Styling html form*/
+#container{
+	width:500px;
+	margin: auto ;
+}
+
+form{
+	background-image:url('images/red_background.jpg');
+	padding:20px;
+	font-family:helvetica, arial,sans-serif;
+}
+
+
+fieldset{
+	background-image:url('images/blue_background.jpg');
+	padding:40px;
+	border:solid 4px white;
+}
+	
+form legend{
+	border:solid 1px #333;
+	background-image:url('images/blue_background.jpg');
+	padding:5px;
+	font-size:30px;
+	font-weight:bold;
+}
+
+
+form input,form textarea{
+	display:black;
+	margin-bottom:20px;
+	-webkit-font-smoothing:antialiased;
+	text-rendering:optimizelegibility;
+}
+form label{
+	font-size:1px;
+	text-transform:uppercase;
+}
+form input[type="text"], form input[type="email"],form textarea{
+	padding:10px;
+	font-size:20px;
+	font-family:helvetica,arial,sans-serif;
+	color:white;
+	border:solid 1px #b40707;
+	background-image:url('images/background_images.jpg');
+	
+}
+
+form textarea{
+	width:400px;
+	height:200px;
+}
+form input[type="submit"]
+{
+	border:black;
+	background-image:url('images/background_images.jpg');
+	height:40px;
+	padding:0 20px;
+	border:solid 1px #d4730c;
+	color:red;
+	font-weight:bold;
+	font-family:helvetica;
+	
+}
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
